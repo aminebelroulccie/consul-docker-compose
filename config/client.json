@@ -1,0 +1,15 @@
+{
+   "addresses": {
+      "http": "0.0.0.0"
+   },
+   "advertise_addr": "10.5.88.133",
+   "bind_addr": "0.0.0.0",
+   "data_dir": "/consul/data",
+   "node_name": "consul-client",
+   "retry_join": [
+      "10.5.131.142"
+   ],
+   "ui_config": {
+      "enabled": true
+   }
+}

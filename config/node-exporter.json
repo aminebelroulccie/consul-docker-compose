@@ -1,0 +1,14 @@
+{
+   "Service": {
+      "Address": "10.5.88.133",
+      "ID": "Controller1_NodeExporter",
+      "Name": "node-exporter",
+      "Port": 9100,
+      "Tags": [
+         "_service=node-exporter",
+         "_hostname=controller1",
+         "_environment=prod",
+         "_instance=namlacontroller1"
+      ]
+   }
+}
